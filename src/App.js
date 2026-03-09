@@ -354,8 +354,7 @@ Once I have gained sufficient professional knowledge, I plan to request a transf
   return (
     <div className="App">
       <header className="app-header">
-        <h1>GKS Scholarship Application</h1>
-        <p>Complete GKS application materials: Essays and Interview Questions</p>
+        <h1>GKS Scholarship Application Materials</h1>
       </header>
 
       <div className="search-container">
